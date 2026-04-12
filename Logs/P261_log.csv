@@ -1,0 +1,5 @@
+P261,24,female,right,0,False,right,00:19:956,incorrect
+P261,24,female,right,0,False,left,00:15:413,correct
+P261,24,female,right,1,False,right,00:02:256,incorrect
+P261,24,female,right,0,False,left,00:21:414,correct
+P261,24,female,right,1,False,right,00:52:590,incorrect
